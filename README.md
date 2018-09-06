@@ -29,4 +29,4 @@ Developlemt: feature integration, code merging, and testing<br>
 feature_specific_branches: feature development<br>
 
 wireframe:
-![wireframe](https://github.com/GoTeam5/Gokomubot/blob/master/assets/GOMOKU.jpg) <br>
+![wireframe](https://github.com/GoTeam5/Gomokubot/blob/master/assets/GOMOKU.jpg) <br>
