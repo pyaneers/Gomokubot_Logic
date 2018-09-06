@@ -2,7 +2,7 @@
 
 ```python
 Team  = 'Pyaneers'
-Members = ('Andrew Baik','Jason Burns', 'Christopher Chapman', 'Alexander Stone')
+Members = ['Andrew Baik', 'Jason Burns', 'Christopher Chapman', 'Alexander Stone']
 ```
 
 ---
