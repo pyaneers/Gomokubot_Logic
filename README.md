@@ -1,7 +1,7 @@
 # GOMOKUBOT
 
 ```python
-Team GoTeam5:
+Team Pyaneer:
 Andrew Baik
 Jason Burns
 Christopher Chapman
