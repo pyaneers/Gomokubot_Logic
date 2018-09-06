@@ -27,3 +27,6 @@ Master: successful development commits<br>
 Developlemt: feature integration, code merging, and testing<br>
 :arrow_up::arrow_up::arrow_up:<br>
 feature_specific_branches: feature development<br>
+
+wireframe:
+![wireframe](https://github.com/GoTeam5/Gokomubot/blob/master/assets/GOMOKU.jpg) <br>
