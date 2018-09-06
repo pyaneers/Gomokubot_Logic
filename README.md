@@ -33,7 +33,7 @@ Master: successful development commits<br>
 :arrow_up:<br>
 Developlemt: feature integration, code merging, and testing<br>
 :arrow_up::arrow_up::arrow_up:<br>
-feature_specific_branches: feature development<br>
+f_feature_specific_branches: feature development<br>
 
 wireframe:
 ![wireframe](https://github.com/GoTeam5/Gomokubot/blob/master/assets/GOMOKU.jpg) <br>
