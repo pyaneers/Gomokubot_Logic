@@ -20,10 +20,10 @@ Google [tensorflow](https://www.tensorflow.org/).
 
 ##### Branching:
 
-Deployment: final product
-^
-Master: successful development commits
-^
-Developlemt: feature integration, code merging, and testing
-^^^
-feature_specific_branches: feature development
+Deployment: final product<br>
+:arrow_up:<br>
+Master: successful development commits<br>
+:arrow_up:<br>
+Developlemt: feature integration, code merging, and testing<br>
+:arrow_up::arrow_up::arrow_up:<br>
+feature_specific_branches: feature development<br>
