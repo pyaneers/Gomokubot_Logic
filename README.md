@@ -1,7 +1,7 @@
 # GOMOKUBOT
 
 ```python
-Team Pyaneer:
+Team Pyaneers:
 Andrew Baik
 Jason Burns
 Christopher Chapman
