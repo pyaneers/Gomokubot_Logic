@@ -25,6 +25,11 @@ Google [tensorflow](https://www.tensorflow.org/).
 - As a developer, I like to transfer server data using json format
 - As a developer, I like to store results to the database so that computer can learn from previous games
 
+### Workflow
+
+Fractalkine workflow;  major level: squad, minor level: pairs, patch level: single.
+Conflict will be handled in the thunderdome, AKA the whiteboard.
+
 ##### Branching:
 
 Deployment: final product<br>
