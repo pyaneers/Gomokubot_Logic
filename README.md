@@ -1,11 +1,8 @@
 # GOMOKUBOT
 
 ```python
-Team Pyaneers:
-Andrew Baik
-Jason Burns
-Christopher Chapman
-Alexander Stone
+Team  = 'Pyaneers'
+Members = ('Andrew Baik','Jason Burns', 'Christopher Chapman', 'Alexander Stone']
 ```
 
 ---
