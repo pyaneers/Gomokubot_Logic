@@ -39,3 +39,20 @@ f_feature_specific_branches: feature development<br>
 
 wireframe:
 ![wireframe](https://github.com/GoTeam5/Gomokubot/blob/master/assets/GOMOKU.jpg) <br>
+
+06SEP18:
+Design
+
+Game logic (Controller)
+- validation of the victory
+- Validation move
+
+RESTful endpoints (Server/APIView)
+- Post (new game)
+- Put (send new point)
+- Get (front-end for user)
+
+ML(tensorflow, itertools)
+
+Front-end
+- Bare minimum of yellow background with black outlines, black and white rocks. text block
