@@ -11,6 +11,16 @@ Members = ['Andrew Baik', 'Jason Burns', 'Christopher Chapman', 'Alexander Stone
 Gomokubot learns the game of [gomoku](https://en.wikipedia.org/wiki/Gomoku) using 
 Google [tensorflow](https://www.tensorflow.org/).
 
+##### Play Mechanics
+win:
+	five in a row
+
+first move:
+	black
+
+mechanics:
+	forcing moves: plays which line up four in a row, which force defensive moves by the other side, often for an extended time. Skilled players can read chains of these out to 40 moves. response: end forcing mechanics by playing interupting moves towards clusters of your own pieces that are already on the board, increading the chance for offensive opportunities.
+
 ---
 
 ### Development
@@ -37,11 +47,13 @@ Developlemt: feature integration, code merging, and testing<br>
 :arrow_up::arrow_up::arrow_up:<br>
 f_feature_specific_branches: feature development<br>
 
-wireframe:
+
+ini concept:
 ![wireframe](https://github.com/GoTeam5/Gomokubot/blob/master/assets/GOMOKU.jpg) <br>
 
 training flow:
-![wireframe](https://github.com/GoTeam5/Gomokubot/blob/master/assets/training_flow.jpg) <br>
+![tf1](https://github.com/GoTeam5/Gomokubot/blob/master/assets/training_flow.jpg) <br>
+![tf2](https://github.com/GoTeam5/Gomokubot/blob/master/assets/reboard.jpg) <br>
 
 06SEP18:
 Design
