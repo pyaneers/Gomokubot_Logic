@@ -59,6 +59,9 @@ class Board():
         # (X,Y) X: OVER | Y: DOWN
         if self.board[x][y] == 0:
             self.board[x][y] = self.stone
+            # after placement, call the Fx that initiates the
+            # sending of me move made to the waiting player.
+
         else:
             print('coordinate marked; illegal move')
             return IndexError
