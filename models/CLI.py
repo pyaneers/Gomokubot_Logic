@@ -3,6 +3,9 @@ import uuid
 from textwrap import dedent
 # from .gmk_board import Board as bd
 
+# this class should be removed, and imported instead.
+# need to learn how to handle the imports in conjuction w/ __main__
+
 
 class Board():
     def __init__(self):
@@ -70,34 +73,41 @@ class Board():
             return IndexError
 
 
+# stone placement verification
+
+
 bd = Board()
 
 
 bd.stone = 1
 
 
-bd.place_piece(0, 0)
+bd.place_piece(7, 7)
 
 
-bd.place_piece(1, 1)
+bd.place_piece(7, 9)
 
 
-bd.place_piece(2, 2)
+bd.place_piece(8, 7)
 
 
 bd.stone = 2
 
 
-bd.place_piece(10, 10)
+bd.place_piece(7, 8)
 
 
-bd.place_piece(11, 11)
+bd.place_piece(8, 8)
 
 
-bd.place_piece(12, 12)
+bd.place_piece(9, 7)
 
 
 def draw_board_row(line):
+    """
+    evaluates the board class and draws stone locations
+    (<four monospace>)
+    """
     row = ''
     for place in line:
         if place == 0:
@@ -110,6 +120,9 @@ def draw_board_row(line):
 
 
 def display_board():
+    """
+    board spaced for stone placement
+    """
     print(f'''
              00, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14
              ----------------------------------------------------------
